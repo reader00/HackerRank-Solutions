@@ -12,17 +12,25 @@ So that, please use this solution only for learning, compare our solutions, and 
 <br />  
 
 ## Contents
-There is no explanations, just code. And some solutions may be confusing because it uses unclear variable names(`e.g. a, aa, b, bb`).
+There is no explanations, just code.
+
+Some solutions may be confusing because it uses unclear variable names(`e.g. a, aa, b, bb`).
+
+Some solutions is not full code(so you can't run it), but just the function provided by HackerRank that we have to complete.
+
 
 ### Solved problems
-All of the solved problems is located in :
+All of the solved problems is located directly in `<Topic>/<Difficulty>` or in `<Topic>/<Difficulty>/<problem>` Where `problem` is the name of the challange.
 <pre>
 &lt;Topic&gt;
 │   README.md
 │
 └───&lt;Difficulty&gt;
     │   <i><b>solution.js</b></i>
-    └───<i><b>solution.py</b></i>
+    │   <i><b>solution.py</b></i>
+    │
+    └───&lt;problem&gt;
+            └───<i><b>solutions_v2.java</b></i>
 </pre>
 <br />  
 
@@ -39,7 +47,7 @@ Some of the problem do not pass all of the test cases(`e.g. 10/12`).
     └───half-done
         │   <i><b>solutions.js</b></i>
         │
-        └───<i><b>problem</b></i>
+        └───&lt;problem&gt;
             │   <i><b>solutions_v1.js</b></i>
             └───<i><b>solutions_v2.js</b></i>
 </pre>
