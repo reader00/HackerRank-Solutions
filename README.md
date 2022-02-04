@@ -8,7 +8,7 @@ This is not the best solutions of the challange.
 ## Use
 HackerRank is one of the populars coding challange platform and also market-leading technical assessment and remote interview solution for hiring developers.
 
-So that, please use this solution only for learning, compare our solutions, and find the algorithm behind it. **Please do not copy and paste**.
+So that, please use this solution only for learning, compare our solutions, and find the algorithm behind it.
 <br />  
 
 ## Contents
